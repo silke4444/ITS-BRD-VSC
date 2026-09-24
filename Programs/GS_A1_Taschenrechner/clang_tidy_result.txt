@@ -1,0 +1,10 @@
+C:\TI-Labor\GSP\gitProjekte\its-brd-vsc-SilkeFork\Programs\GS_A1_Taschenrechner\Src\controler.c:23:9: warning: do not use 'else' after 'return' [readability-else-after-return]
+   23 |       } else {
+      |         ^~~~~~
+   24 |          text[index] = '-';
+   25 |          value = value * -1;
+   26 |          index++;
+   27 |       }
+      |       ~
+
+Linting of CMSIS project C:\TI-Labor\GSP\gitProjekte\its-brd-vsc-SilkeFork\Programs\GS_A1_Taschenrechner done.
